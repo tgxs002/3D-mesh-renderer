@@ -4,6 +4,8 @@
 <br>Xiaoshi Wu</br>
 <br>xiswu@ucdavis.edu</br>
 
+![demo](./demo.png)
+
 ### Compile
 ```bash
 make
